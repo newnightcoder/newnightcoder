@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nightcoder2?color=%231DA1F2&label=Follow%20me%20%40nightcoder2&logo=Twitter&style=for-the-badge)
 
-## I'm a frontend web developer
+# I'm a frontend web developer
 
 - 🌱 &nbsp;I'm a proud self-taught dev
 - 🚀 &nbsp;Available for hire - i'm applying
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👨🏾‍💻 &nbsp;Currently coding my portfolio website
 - ❤️ &nbsp;I love to code
 
-### 🛠 &nbsp;<u><i>Languages + tools i'm using:</i></u>
+## 🛠 &nbsp;<u>Languages + tools i'm using</u>
 
 <u>**Front**</u>
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ![Vscode](https://img.shields.io/badge/-VsCode-007FFF?logo=Visualstudiocode&logoColor=white&style=for-the-badge)&nbsp;![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)&nbsp;![Github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)&nbsp;![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)&nbsp;![Heroku](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)&nbsp;![Firebase](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
 
-### 😻 &nbsp;<u><i>Some (finished) projects i built</i></u>
+## 💻 &nbsp;<u>Some of the (finished) projects i built</u>
 
 <div>
 
@@ -102,14 +102,13 @@ Here are some ideas to get you started:
 ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=white&style=flat)&nbsp;![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)&nbsp;![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat)&nbsp;
 
 </div>
+&nbsp;
 
----
-
-### 👀 &nbsp;<u><i>Random facts about me</i></u>
+## 👀 &nbsp;<u>Random facts about me</u>
 
 - 🍵 i'm a heavy mint tea drinker - it makes me awake, focused and happy
 -
 
-### 📶 &nbsp;<u><i>Let's connect!</i></u>
+## 📶 &nbsp;<u>Let's connect!</u>
 
 ![GitHub followers](https://img.shields.io/github/followers/newnightcoder?color=%23181717&label=Follow%20me%20here%20on%20github&logo=github&style=for-the-badge)&nbsp;&nbsp;![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)
