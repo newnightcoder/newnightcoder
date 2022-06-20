@@ -34,17 +34,36 @@ Here are some ideas to get you started:
 
 **<u>Front</u>**
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=for-the-badge)&nbsp;![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=MUI&logoColor=white&style=for-the-badge)&nbsp;![styled](https://img.shields.io/badge/-styled%20components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge)
+<!--
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=for-the-badge)&nbsp;![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=MUI&logoColor=white&style=for-the-badge)&nbsp;![styled](https://img.shields.io/badge/-styled%20components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge) -->
 
-![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;![React](https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;![Redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)&nbsp;![TS](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+
+&nbsp;  
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<!-- ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;![React](https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;![Redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)&nbsp;![TS](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)&nbsp; -->
 
 **Back**
 
-![NodeJS](https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white&style=for-the-badge)&nbsp;![Express](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge)&nbsp;![SQL](https://img.shields.io/badge/-sql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;![MongoDB](https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;![AWS](https://img.shields.io/badge/-aws%20S3-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+
+<!-- ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white&style=for-the-badge)&nbsp;![Express](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge)&nbsp;![SQL](https://img.shields.io/badge/-sql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;![MongoDB](https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;![AWS](https://img.shields.io/badge/-aws%20S3-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge) -->
 
 **Tools**
 
-![Vscode](https://img.shields.io/badge/-VsCode-007FFF?logo=Visualstudiocode&logoColor=white&style=for-the-badge)&nbsp;![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)&nbsp;![Github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)&nbsp;![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)&nbsp;![Heroku](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)&nbsp;![Firebase](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+          
+          
+          
+<!-- ![Vscode](https://img.shields.io/badge/-VsCode-007FFF?logo=Visualstudiocode&logoColor=white&style=for-the-badge)&nbsp;![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)&nbsp;![Github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)&nbsp;![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)&nbsp;![Heroku](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)&nbsp;![Firebase](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge) -->
+
 &nbsp;
 
 ## 💻 &nbsp;Some of the (finished) projects i built
