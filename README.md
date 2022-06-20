@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <u>**Back**</u>
 
-![NodeJS](https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white&style=for-the-badge)&nbsp;![Express](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge)&nbsp;![SQL](https://img.shields.io/badge/-sql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;![MongoDB](https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge) &nbsp;![AWS](https://img.shields.io/badge/-aws%20S3-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white&style=for-the-badge)&nbsp;![Express](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge)&nbsp;![SQL](https://img.shields.io/badge/-sql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;![MongoDB](https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;![AWS](https://img.shields.io/badge/-aws%20S3-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
 <u>**Tools**</u>
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
-<img height="300" src="assets/preview4.png"/>&nbsp;
+<img height="300" src="assets/preview4.png"/>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;![Redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=flat)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=flat)&nbsp;![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white&style=flat)&nbsp;![Express](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=flat)&nbsp;![JWT](https://img.shields.io/badge/-jsonwebtokens-000000?logo=jsonwebtokens&logoColor=white&style=flat)&nbsp;![SQL](https://img.shields.io/badge/-sql-4479A1?logo=mysql&logoColor=white&style=flat)&nbsp;![Heroku](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=flat)
