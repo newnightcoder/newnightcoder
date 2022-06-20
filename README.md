@@ -30,27 +30,28 @@ Here are some ideas to get you started:
 - 👨🏾‍💻 &nbsp;Currently coding my portfolio website
 - ❤️ &nbsp;I love to code
 
-## 🛠 &nbsp;<u>Languages + tools i'm using</u>
+## 🛠 &nbsp;Languages + tools i'm using
 
-<u>**Front**</u>
+**<u>Front</u>**
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=for-the-badge)&nbsp;![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=MUI&logoColor=white&style=for-the-badge)&nbsp;![styled](https://img.shields.io/badge/-styled%20components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge)
 
 ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;![React](https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;![Redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)&nbsp;![TS](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 
-<u>**Back**</u>
+**Back**
 
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white&style=for-the-badge)&nbsp;![Express](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge)&nbsp;![SQL](https://img.shields.io/badge/-sql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;![MongoDB](https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;![AWS](https://img.shields.io/badge/-aws%20S3-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 
-<u>**Tools**</u>
+**Tools**
 
 ![Vscode](https://img.shields.io/badge/-VsCode-007FFF?logo=Visualstudiocode&logoColor=white&style=for-the-badge)&nbsp;![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)&nbsp;![Github](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)&nbsp;![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)&nbsp;![Heroku](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)&nbsp;![Firebase](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+&nbsp;
 
-## 💻 &nbsp;<u>Some of the (finished) projects i built</u>
+## 💻 &nbsp;Some of the (finished) projects i built
 
 <div>
 
-#### 1- FORUM : fullstack JS social media app
+### FORUM - a fullstack JS social media app
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -65,7 +66,7 @@ Here are some ideas to get you started:
 
 <div>
 
-#### 2- COLORWAVE : online shopping site
+### COLORWAVE - online shopping cart
 
 <a href="#" target="_blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -79,7 +80,7 @@ Here are some ideas to get you started:
 
 <div>
 
-#### 3- THINGS : todo app
+### THINGS - a React todo app
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -93,7 +94,7 @@ Here are some ideas to get you started:
 
 <div>
 
-#### 4- Arkanoid-mini : a vanilla JS tribute game
+### Arkanoid-mini - a vanilla JS tribute game
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -104,11 +105,11 @@ Here are some ideas to get you started:
 </div>
 &nbsp;
 
-## 👀 &nbsp;<u>Random facts about me</u>
+## 👀 &nbsp;Random facts about me
 
 - 🍵 i'm a heavy mint tea drinker - it makes me awake, focused and happy
 -
 
-## 📶 &nbsp;<u>Let's connect!</u>
+## 📶 &nbsp;Let's connect!
 
 ![GitHub followers](https://img.shields.io/github/followers/newnightcoder?color=%23181717&label=Follow%20me%20here%20on%20github&logo=github&style=for-the-badge)&nbsp;&nbsp;![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)
