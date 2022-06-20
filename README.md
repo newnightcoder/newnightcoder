@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 
 ---
 
+<div>
+
 #### 2- COLORWAVE : online shopping site
 
 <a href="#" target="_blank">see project live</a> <a href="#" target="blank">go to repo</a>
@@ -75,6 +77,8 @@ Here are some ideas to get you started:
 
 ---
 
+<div>
+
 #### 3- THINGS : todo app
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
@@ -86,6 +90,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+<div>
 
 #### 4- Arkanoid-mini : a vanilla JS tribute game
 
