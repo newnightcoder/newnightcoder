@@ -96,8 +96,7 @@ Here are some ideas to get you started:
 
 ### <ins>THINGS</ins>
 
-**_Une todo list avec React._**  
-**_UI inspirée par un design sur Dribbble_**
+**_Une todo list avec React._**
 
 👁&nbsp;&nbsp;<ins>[Voir en live](https://things-7544b.web.app/)</ins>  
 ➡️&nbsp;&nbsp;[Aller au repo](https://github.com/newnightcoder/react-todo-app)
@@ -115,7 +114,7 @@ Here are some ideas to get you started:
 ### <ins>Arkanoid-mini</ins>
 
 **_Un petit jeu hommage en JavaScript._**  
-**_Mon tout premier projet ever_**😅
+**_Mon tout premier projet ever_** 😅
 
 👁&nbsp;&nbsp;<ins>[Voir en live](https://newnightcoder.github.io/arkanoid-mini/)</ins>  
 💀&nbsp;&nbsp;[Aller au repo](https://github.com/newnightcoder/arkanoid-mini)
