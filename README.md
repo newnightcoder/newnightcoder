@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Euh...%20en%20français%20svp%21&&style=flat)](README-fr.md)
+[![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Euh...%20en%20français%20svp%21&&style=flat)](README.fr.md)
 
 <!-- ![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=Lang&&style=flat) -->
 
