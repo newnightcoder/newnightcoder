@@ -111,9 +111,10 @@ Here are some ideas to get you started:
 ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=white&style=flat)&nbsp;![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)&nbsp;![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat)&nbsp;
 
 </div>
-</details>
 
 ---
+
+</details>
 
 ### 👀 &nbsp;Random facts about me
 
