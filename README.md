@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <summary><i>Click to see more</i></summary>
 <div>
 
-### <ins>FORUM - a fullstack JS social media app</ins>
+### <ins>FORUM</ins> - a fullstack JS social media app
 
 👁&nbsp;&nbsp;<ins>[See live](https://forum-network.netlify.app/)</ins>  
 ➡️&nbsp;&nbsp;[Go to repo front](https://github.com/newnightcoder/reddit-clone-front)  
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>COLORWAVE - online shopping cart</ins>
+### <ins>COLORWAVE</ins> - online shopping site
 
 👁&nbsp;&nbsp;<ins>[See live](https://colorwave-shop.netlify.app/)</ins>  
 ➡️&nbsp;&nbsp;[Go to repo](https://github.com/newnightcoder/colorwave)
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>THINGS - a React todo app</ins>
+### <ins>THINGS</ins> - a React todo app
 
 👁&nbsp;&nbsp;<ins>[See live](https://things-7544b.web.app/)</ins>  
 ➡️&nbsp;&nbsp;[Go to repo](https://github.com/newnightcoder/react-todo-app)
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>Arkanoid-mini - a vanilla JS tribute game</ins>
+### <ins>Arkanoid-mini</ins> - a vanilla JS tribute game
 
 👁&nbsp;&nbsp;<ins>[See live](https://newnightcoder.github.io/arkanoid-mini/)</ins>  
 💀&nbsp;&nbsp;[Go to repo](https://github.com/newnightcoder/arkanoid-mini)
