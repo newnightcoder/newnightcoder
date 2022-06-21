@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ❤️ &nbsp;I love to code  
   &nbsp;
 
-## 🛠 &nbsp;Languages + tools i'm using
+### 🛠 &nbsp;Languages + tools i'm using
 
 <details><summary><i>click to see more</i></summary>
 &nbsp;
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <summary><i>click to see more</i></summary>
 <div>
 
-### <ins>FORUM - a fullstack JS social media app</ins>
+#### <ins>FORUM - a fullstack JS social media app</ins>
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>COLORWAVE - online shopping cart</ins>
+#### <ins>COLORWAVE - online shopping cart</ins>
 
 <a href="#" target="_blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>THINGS - a React todo app</ins>
+#### <ins>THINGS - a React todo app</ins>
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>Arkanoid-mini - a vanilla JS tribute game</ins>
+#### <ins>Arkanoid-mini - a vanilla JS tribute game</ins>
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -112,6 +112,8 @@ Here are some ideas to get you started:
 
 </div>
 </details>
+
+---
 
 ### 👀 &nbsp;Random facts about me
 
