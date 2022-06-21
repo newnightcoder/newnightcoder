@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 ### <ins>FORUM - un réseau social fullstack JS</ins>
 
-👁&nbsp;&nbsp;<ins>[Voir en live](https://forum-network.netlify.app/)</ins>
-➡️&nbsp;&nbsp;[Aller au repo front](https://github.com/newnightcoder/reddit-clone-front)
+👁&nbsp;&nbsp;<ins>[Voir en live](https://forum-network.netlify.app/)</ins>  
+➡️&nbsp;&nbsp;[Aller au repo front](https://github.com/newnightcoder/reddit-clone-front)  
 ➡️&nbsp;&nbsp;[Aller au repo back](https://github.com/newnightcoder/reddit-clone-back)
 
 <img width="75%" src="assets/preview4.png"/>
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ### <ins>COLORWAVE - un site d'achat en ligne</ins>
 
-👁&nbsp;&nbsp;<ins>[Voir en live](https://colorwave-shop.netlify.app/)</ins>
+👁&nbsp;&nbsp;<ins>[Voir en live](https://colorwave-shop.netlify.app/)</ins>  
 ➡️&nbsp;&nbsp;[Aller au repo](https://github.com/newnightcoder/colorwave)
 
 <img width="75%" src="assets/preview3.png"/>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 ### <ins>THINGS - une todo list avec React</ins>
 
-👁&nbsp;&nbsp;<ins>[Voir en live](https://things-7544b.web.app/)</ins>
+👁&nbsp;&nbsp;<ins>[Voir en live](https://things-7544b.web.app/)</ins>  
 ➡️&nbsp;&nbsp;[Aller au repo](https://github.com/newnightcoder/react-todo-app)
 
 <img width="75%" src="assets/preview2.png"/>
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 ### <ins>Arkanoid-mini - un petit jeu hommage en JavaScript</ins>
 
-👁&nbsp;&nbsp;<ins>[Voir en live](https://newnightcoder.github.io/arkanoid-mini/)</ins>
+👁&nbsp;&nbsp;<ins>[Voir en live](https://newnightcoder.github.io/arkanoid-mini/)</ins>  
 💀&nbsp;&nbsp;[Aller au repo](https://github.com/newnightcoder/arkanoid-mini)
 
 <img width="75%" src="assets/preview1.png"/>
