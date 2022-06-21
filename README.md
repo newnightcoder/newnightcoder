@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img width="100%" src="assets/zsh-banner.png"/>
 
-# I'm a frontend web developer
+## I'm a frontend web developer
 
 - 🌱 &nbsp;Proud to be self-taught
 - 🚀 &nbsp;Available for hire - i'm applying
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ❤️ &nbsp;I love to code  
   &nbsp;
 
-### 🛠 &nbsp;Languages + tools i'm using
+## 🛠 &nbsp;Languages + tools i'm using
 
 <details><summary><i>click to see more</i></summary>
 &nbsp;
@@ -48,11 +48,12 @@ Here are some ideas to get you started:
 
 **<ins>Tools</ins>**
 
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
+&nbsp;
 
 </details>
 
-## 💻 &nbsp;Some of the (finished) projects i built
+### 💻 &nbsp;Some of the (finished) projects i built
 
 <details>
 <summary><i>click to see more</i></summary>
@@ -112,11 +113,11 @@ Here are some ideas to get you started:
 </div>
 </details>
 
-## 👀 &nbsp;Random facts about me
+### 👀 &nbsp;Random facts about me
 
 1- 🍵 i'm a heavy mint tea drinker - it makes me awake, focused and happy
 
-## 💬 &nbsp;Let's connect!
+### 💬 &nbsp;Let's connect!
 
 [![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)  
 [![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)](mailto:djfrontend@gmail.com)  
