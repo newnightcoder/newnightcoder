@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=Lang&&style=flat) -->
 
-# Hello! I'm Daniel Julien - aka [Nightcoder]() 😎 👋🏾
+# Hello! I'm Daniel Julien - aka <span style="color:#0b83eb">Nightcoder</span> 😎 👋🏾
 
 <img width="100%" src="assets/zsh-banner.png"/>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 🛠 &nbsp;Languages + tools i'm using
 
-<details><summary><i>click to see more</i></summary>
+<details><summary><i>Click to see more</i></summary>
 &nbsp;
 
 **<ins>Front</ins>**
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## 💻 &nbsp;Some of the (finished) projects i built
 
 <details>
-<summary><i>click to see more</i></summary>
+<summary><i>Click to see more</i></summary>
 <div>
 
 ### <ins>FORUM - a fullstack JS social media app</ins>
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 
 ## 💬 &nbsp;Let's connect!
 
-[![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)
+[![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)  
 [![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)](mailto:djfrontend@gmail.com)  
 [![Discord](https://img.shields.io/badge/-nightcoder%237398-5865F2?label=find%20me%20on%20discord&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/nightcoder2?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/Nightcoder2)  
