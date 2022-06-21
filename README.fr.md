@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Lang&&style=flat) -->
+<img width="100%" src="assets/zsh-banner.png"/>
 
 # Bonjour 👋🏾 &nbsp;Moi c'est Daniel - alias [Nightcoder](https://twitter.com/Nightcoder2) 😎
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=flat"/> <img src="https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat"/> [![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=In%20english%20please...&&style=flat)](https://github.com/newnightcoder)
-
-<img width="100%" src="assets/zsh-banner.png"/>
 
 ## Je suis développeur web frontend
 
