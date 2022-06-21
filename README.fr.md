@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" src="assets/zsh-banner.png"/>
-
 # Bonjour 👋🏾 &nbsp;Moi c'est Daniel - alias [Nightcoder](https://twitter.com/Nightcoder2) 😎
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=flat"/> <img src="https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat"/> [![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=In%20english%20please...&&style=flat)](https://github.com/newnightcoder)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=flat"/> <img src="https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat"/> [![En](https://img.shields.io/badge/-🇺🇸🍩-lightgray?label=in%20english%20please...&&style=flat)](https://github.com/newnightcoder)
+
+<img width="100%" src="assets/zsh-banner.png"/>
 
 ## Je suis développeur web frontend
 
@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 
 ### <ins>FORUM - un réseau social fullstack JS</ins>
 
-<a href="#" target="blank">Voir en live</a> <a href="#" target="blank">Aller au repo</a>
+👁&nbsp;&nbsp;<ins>[Voir en live](https://forum-network.netlify.app/)</ins>
+➡️&nbsp;&nbsp;[Aller au repo front](https://github.com/newnightcoder/reddit-clone-front)
+➡️&nbsp;&nbsp;[Aller au repo back](https://github.com/newnightcoder/reddit-clone-back)
 
 <img width="75%" src="assets/preview4.png"/>
 
@@ -73,7 +75,8 @@ Here are some ideas to get you started:
 
 ### <ins>COLORWAVE - un site d'achat en ligne</ins>
 
-<a href="#" target="_blank">Voir en live</a> <a href="#" target="blank">Aller au repo</a>
+👁&nbsp;&nbsp;<ins>[Voir en live](https://colorwave-shop.netlify.app/)</ins>
+➡️&nbsp;&nbsp;[Aller au repo](https://github.com/newnightcoder/colorwave)
 
 <img width="75%" src="assets/preview3.png"/>
 
@@ -87,7 +90,8 @@ Here are some ideas to get you started:
 
 ### <ins>THINGS - une todo list avec React</ins>
 
-<a href="#" target="blank">Voir en live</a> <a href="#" target="blank">Aller au repo</a>
+👁&nbsp;&nbsp;<ins>[Voir en live](https://things-7544b.web.app/)</ins>
+➡️&nbsp;&nbsp;[Aller au repo](https://github.com/newnightcoder/react-todo-app)
 
 <img width="75%" src="assets/preview2.png"/>
 
@@ -99,9 +103,10 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>Arkanoid-mini - un jeu hommage en JavaScript</ins>
+### <ins>Arkanoid-mini - un petit jeu hommage en JavaScript</ins>
 
-<a href="#" target="blank">Voir en live</a> <a href="#" target="blank">Aller au repo</a>
+👁&nbsp;&nbsp;<ins>[Voir en live](https://newnightcoder.github.io/arkanoid-mini/)</ins>
+💀&nbsp;&nbsp;[Aller au repo](https://github.com/newnightcoder/arkanoid-mini)
 
 <img width="75%" src="assets/preview1.png"/>
 
