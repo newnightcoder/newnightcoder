@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=Lang&&style=flat) -->
 
-# Hello there! 😎 👋🏾 I'm Daniel Julien - aka [Nightcoder]()
+# Hello! I'm Daniel Julien - aka [Nightcoder]() 😎 👋🏾
 
 <img width="100%" src="assets/zsh-banner.png"/>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👨🏾‍💻 &nbsp;Currently coding my portfolio website
 - ❤️ &nbsp;I love to code
 
-### 🛠 &nbsp;<ins>Languages + tools i'm using<ins>
+## 🛠 &nbsp;<ins>Languages + tools i'm using<ins>
 
 <details><summary><i>click to see more</i></summary>
 &nbsp;
@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 
 </details>
 
-### 💻 &nbsp;<ins>Some of the (finished) projects i built</ins>
+## 💻 &nbsp;<ins>Some of the (finished) projects i built</ins>
 
 <details>
 <summary><i>click to see more</i></summary>
 <div>
 
-#### <ins>FORUM - a fullstack JS social media app</ins>
+### <ins>FORUM - a fullstack JS social media app</ins>
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <div>
 
-#### <ins>COLORWAVE - online shopping cart</ins>
+### <ins>COLORWAVE - online shopping cart</ins>
 
 <a href="#" target="_blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 <div>
 
-#### <ins>THINGS - a React todo app</ins>
+### <ins>THINGS - a React todo app</ins>
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 <div>
 
-#### <ins>Arkanoid-mini - a vanilla JS tribute game</ins>
+### <ins>Arkanoid-mini - a vanilla JS tribute game</ins>
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
@@ -115,11 +115,11 @@ Here are some ideas to get you started:
 
 </details>
 
-### 👀 &nbsp;<ins>Random facts about me</ins>
+## 👀 &nbsp;<ins>Random facts about me</ins>
 
 1- i'm a heavy mint tea drinker - it makes me awake, focused and happy 🤩 🍵
 
-### 💬 &nbsp;<ins>Let's connect!</ins>
+## 💬 &nbsp;<ins>Let's connect!</ins>
 
 [![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)
 [![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)](mailto:djfrontend@gmail.com)  
