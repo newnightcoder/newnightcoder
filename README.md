@@ -56,7 +56,10 @@ Here are some ideas to get you started:
 <summary><i>Click to see more</i></summary>
 <div>
 
-### <ins>FORUM</ins> - a fullstack JS social media app
+### <ins>FORUM</ins>
+
+**_A fullstack JS social media app._**
+**_Forum platform inspired by Reddit and Twitter_**
 
 👁&nbsp;&nbsp;<ins>[See live](https://forum-network.netlify.app/)</ins>  
 ➡️&nbsp;&nbsp;[Go to repo front](https://github.com/newnightcoder/reddit-clone-front)  
@@ -73,7 +76,10 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>COLORWAVE</ins> - online shopping site
+### <ins>COLORWAVE</ins>
+
+**_An online shopping site._**
+**_Inspired by Colorware website_**
 
 👁&nbsp;&nbsp;<ins>[See live](https://colorwave-shop.netlify.app/)</ins>  
 ➡️&nbsp;&nbsp;[Go to repo](https://github.com/newnightcoder/colorwave)
@@ -88,7 +94,10 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>THINGS</ins> - a React todo app
+### <ins>THINGS</ins>
+
+**_A React todo app._**
+**_UI inspired by a Dribbble design_**
 
 👁&nbsp;&nbsp;<ins>[See live](https://things-7544b.web.app/)</ins>  
 ➡️&nbsp;&nbsp;[Go to repo](https://github.com/newnightcoder/react-todo-app)
@@ -103,7 +112,10 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>Arkanoid-mini</ins> - a vanilla JS tribute game
+### <ins>Arkanoid-mini</ins>
+
+**_A vanilla JS tribute game._**
+**_My very 1st project ever_**😅
 
 👁&nbsp;&nbsp;<ins>[See live](https://newnightcoder.github.io/arkanoid-mini/)</ins>  
 💀&nbsp;&nbsp;[Go to repo](https://github.com/newnightcoder/arkanoid-mini)
