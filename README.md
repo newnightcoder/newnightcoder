@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=Lang&&style=flat) -->
 
-# Hello there! I'm Daniel Julien - aka [Nightcoder]() 😎 👋🏾
+# Hello there! 😎 👋🏾 I'm Daniel Julien - aka [Nightcoder]()
 
 <img width="100%" src="assets/zsh-banner.png"/>
 
@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 - 🧠 &nbsp;Always working on my problem solving skills
 - 💫 &nbsp;As a junior my goal is to become a Jedi developer
 - 👨🏾‍💻 &nbsp;Currently coding my portfolio website
-- ❤️ &nbsp;I love to code  
-  &nbsp;
+- ❤️ &nbsp;I love to code
 
-### 🛠 &nbsp;Languages + tools i'm using
+### 🛠 &nbsp;<ins>Languages + tools i'm using<ins>
 
 <details><summary><i>click to see more</i></summary>
 &nbsp;
@@ -53,7 +52,7 @@ Here are some ideas to get you started:
 
 </details>
 
-### 💻 &nbsp;Some of the (finished) projects i built
+### 💻 &nbsp;<ins>Some of the (finished) projects i built</ins>
 
 <details>
 <summary><i>click to see more</i></summary>
@@ -116,13 +115,13 @@ Here are some ideas to get you started:
 
 </details>
 
-### 👀 &nbsp;Random facts about me
+### 👀 &nbsp;<ins>Random facts about me</ins>
 
-1- 🍵 i'm a heavy mint tea drinker - it makes me awake, focused and happy
+1- i'm a heavy mint tea drinker - it makes me awake, focused and happy 🤩 🍵
 
-### 💬 &nbsp;Let's connect!
+### 💬 &nbsp;<ins>Let's connect!</ins>
 
-[![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)  
+[![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)
 [![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)](mailto:djfrontend@gmail.com)  
 [![Discord](https://img.shields.io/badge/-nightcoder%237398-5865F2?label=find%20me%20on%20discord&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/nightcoder2?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/Nightcoder2)  
