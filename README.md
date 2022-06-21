@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🧠 &nbsp;Always working on my problem solving skills
 - 💫 &nbsp;As a junior my goal is to become a Jedi developer
 - 👨🏾‍💻 &nbsp;Currently coding my portfolio website
-- ❤️ &nbsp;I love to code
+- ❤️ &nbsp;I love to code  
   &nbsp;
 
 ## 🛠 &nbsp;Languages + tools i'm using
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 ## 👀 &nbsp;Random facts about me
 
-- 🍵 i'm a heavy mint tea drinker - it makes me awake, focused and happy
+- 🍵 i'm a heavy mint tea drinker - it makes me awake, focused and happy  
   &nbsp;
 
 ## 💬 &nbsp;Let's connect!
