@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - ❤️ &nbsp;I love to code  
   &nbsp;
 
-<details>
-<summary>
-<h2 style="display:inline">🛠 &nbsp;Languages + tools i'm using</h2>
-</summary>
+### 🛠 &nbsp;Languages + tools i'm using
+
+<details><summary><i>click to see more</i></summary>
+&nbsp;
 
 **<ins>Front</ins>**
 
@@ -51,10 +51,11 @@ Here are some ideas to get you started:
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </details>
-&nbsp;
 
 ## 💻 &nbsp;Some of the (finished) projects i built
 
+<details>
+<summary><i>click to see more</i></summary>
 <div>
 
 ### <ins>FORUM - a fullstack JS social media app</ins>
@@ -109,12 +110,11 @@ Here are some ideas to get you started:
 ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=white&style=flat)&nbsp;![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)&nbsp;![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat)&nbsp;
 
 </div>
-&nbsp;
+</details>
 
 ## 👀 &nbsp;Random facts about me
 
-- 🍵 i'm a heavy mint tea drinker - it makes me awake, focused and happy  
-  &nbsp;
+1- 🍵 i'm a heavy mint tea drinker - it makes me awake, focused and happy
 
 ## 💬 &nbsp;Let's connect!
 
