@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Euh...%20en%20français%20svp%21&&style=flat)](README.fr.md)
+# Hello 👋🏾 &nbsp;I'm Daniel - aka [Nightcoder](https://twitter.com/Nightcoder2) 😎
 
-# Hello 👋🏾 I'm Daniel - aka [Nightcoder](https://twitter.com/Nightcoder2) 😎
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=flat"/> <img src="https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat"/> [![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Euh...en%20français%20svp%21&&style=flat)](README.fr.md)
 
 <img width="100%" src="assets/zsh-banner.png"/>
 

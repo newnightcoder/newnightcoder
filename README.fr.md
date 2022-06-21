@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 <!-- ![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Lang&&style=flat) -->
 
-[![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=In%20english%20please...&&style=flat)](README.md)
+# Bonjour 👋🏾 &nbsp;Moi c'est Daniel - alias [Nightcoder](https://twitter.com/Nightcoder2) 😎
 
-# Bonjour 👋🏾 Moi c'est Daniel - alias [Nightcoder](https://twitter.com/Nightcoder2) 😎
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=flat"/> <img src="https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat"/> [![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=In%20english%20please...&&style=flat)](README.md)
 
 <img width="100%" src="assets/zsh-banner.png"/>
 
