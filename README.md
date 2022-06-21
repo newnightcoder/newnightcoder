@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 [![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Euh...%20en%20français%20svp%21&&style=flat)](README.fr.md)
 
-<!-- ![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=Lang&&style=flat) -->
-
-# Hello! I'm Daniel - aka [Nightcoder](https://twitter.com/Nightcoder2) 😎 👋🏾
+# Hello 👋🏾 I'm Daniel - aka [Nightcoder](https://twitter.com/Nightcoder2) 😎
 
 <img width="100%" src="assets/zsh-banner.png"/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat)
 
 ## I'm a frontend web developer
 

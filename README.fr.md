@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 
 [![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=In%20english%20please...&&style=flat)](README.md)
 
-# Bonjour! Moi c'est Daniel - alias [Nightcoder](https://twitter.com/Nightcoder2) 😎 👋🏾
+# Bonjour 👋🏾 Moi c'est Daniel - alias [Nightcoder](https://twitter.com/Nightcoder2) 😎
 
 <img width="100%" src="assets/zsh-banner.png"/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=newnightcoder&style=plastic) ![GitHub followers](https://img.shields.io/github/followers/newnightcoder?logo=github&style=flat)
 
 ## Je suis développeur web frontend
 
 - 🌱 &nbsp;Fier d'avoir appris en autodidacte
 - 🚀 &nbsp;À l'écoute du marché - je postule
 - 🧠 &nbsp;Je bosse ma capacité à résoudre les problèmes
-- 💫 &nbsp;En tant que dev Padawan mon but dans la vie est de devenir un Jedi
+- 💫 &nbsp;En tant que junior Padawan mon but dans la vie est de devenir un dev Jedi
 - 👨🏾‍💻 &nbsp;En ce moment je travaille sur mon site perso
 - ❤️ &nbsp;J'adore le code
 
@@ -117,7 +119,7 @@ Here are some ideas to get you started:
 
 ## 👀 &nbsp;Trucs qui ont rien à voir
 
-1- je suis un très gros buveur de thé vert à la menthe avec du sucre - ça me rend super éveillé, focus et heureux 🤩 🍵
+1- je suis un très gros buveur de thé vert à la menthe (avec du sucre) - ça me rend super éveillé, focus et heureux 🤩 🍵
 
 ## 💬 &nbsp;Parlons-nous!
 
