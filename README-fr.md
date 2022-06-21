@@ -13,26 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Euh...%20en%20français%20svp%21&&style=flat)](README-fr.md)
+<!-- ![Fr](https://img.shields.io/badge/🇫🇷-lightgray?label=Lang&&style=flat) -->
 
-<!-- ![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=Lang&&style=flat) -->
+[![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=In%20english%20please...&&style=flat)](README.md)
 
-# Hello! I'm Daniel - aka [Nightcoder](https://twitter.com/Nightcoder2) 😎 👋🏾
+# Bonjour! Moi c'est Daniel - alias [Nightcoder](https://twitter.com/Nightcoder2) 😎 👋🏾
 
 <img width="100%" src="assets/zsh-banner.png"/>
 
-## I'm a frontend web developer
+## Je suis développeur web frontend
 
-- 🌱 &nbsp;Proud to be self-taught
-- 🚀 &nbsp;Available for hire - i'm applying
-- 🧠 &nbsp;Always working on my problem solving skills
-- 💫 &nbsp;As a junior dev my goal is to become a Jedi
-- 👨🏾‍💻 &nbsp;Currently coding my portfolio website
-- ❤️ &nbsp;I love to code
+- 🌱 &nbsp;Fier d'avoir appris en autodidacte
+- 🚀 &nbsp;À l'écoute du marché - je postule
+- 🧠 &nbsp;Je bosse ma capacité à résoudre les problèmes
+- 💫 &nbsp;En tant que dev Padawan mon but dans la vie est de devenir un Jedi
+- 👨🏾‍💻 &nbsp;En ce moment je travaille sur mon site perso
+- ❤️ &nbsp;J'adore le code
 
-## 🛠 &nbsp;Languages + tools i'm using
+## 🛠 &nbsp;Langages + outils que j'utilise
 
-<details><summary><i>Click to see more</i></summary>
+<details><summary><i>Voir plus</i></summary>
 &nbsp;
 
 **<ins>Front</ins>**
@@ -45,22 +45,22 @@ Here are some ideas to get you started:
 
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="assets/express.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-**<ins>Tools</ins>**
+**<ins>Outils</ins>**
 
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />&nbsp;&nbsp;<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
 &nbsp;
 
 </details>
 
-## 💻 &nbsp;Some of the (finished) projects i built
+## 💻 &nbsp;Quelques projets (finis 😋)
 
 <details>
-<summary><i>Click to see more</i></summary>
+<summary><i>Voir plus</i></summary>
 <div>
 
-### <ins>FORUM - a fullstack JS social media app</ins>
+### <ins>FORUM - un réseau social fullstack JS</ins>
 
-<a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
+<a href="#" target="blank">Voir en live</a> <a href="#" target="blank">Aller au repo</a>
 
 <img width="75%" src="assets/preview4.png"/>
 
@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>COLORWAVE - online shopping cart</ins>
+### <ins>COLORWAVE - un site d'achat en ligne</ins>
 
-<a href="#" target="_blank">see project live</a> <a href="#" target="blank">go to repo</a>
+<a href="#" target="_blank">Voir en live</a> <a href="#" target="blank">Aller au repo</a>
 
 <img width="75%" src="assets/preview3.png"/>
 
@@ -87,9 +87,9 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>THINGS - a React todo app</ins>
+### <ins>THINGS - une todo list avec React</ins>
 
-<a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
+<a href="#" target="blank">Voir en live</a> <a href="#" target="blank">Aller au repo</a>
 
 <img width="75%" src="assets/preview2.png"/>
 
@@ -101,9 +101,9 @@ Here are some ideas to get you started:
 
 <div>
 
-### <ins>Arkanoid-mini - a vanilla JS tribute game</ins>
+### <ins>Arkanoid-mini - un jeu hommage en JavaScript</ins>
 
-<a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
+<a href="#" target="blank">Voir en live</a> <a href="#" target="blank">Aller au repo</a>
 
 <img width="75%" src="assets/preview1.png"/>
 
@@ -115,14 +115,14 @@ Here are some ideas to get you started:
 
 </details>
 
-## 👀 &nbsp;Random facts about me
+## 👀 &nbsp;Trucs qui ont rien à voir
 
-1- i'm a heavy mint tea drinker - it makes me awake, focused and happy 🤩 🍵
+1- je suis un très gros buveur de thé vert à la menthe avec du sucre - ça me rend super éveillé, focus et heureux 🤩 🍵
 
-## 💬 &nbsp;Let's connect!
+## 💬 &nbsp;Parlons-nous!
 
-[![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)  
-[![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)](mailto:djfrontend@gmail.com)  
-[![Discord](https://img.shields.io/badge/-nightcoder%237398-5865F2?label=find%20me%20on%20discord&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/nightcoder2?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/Nightcoder2)  
-[![GitHub followers](https://img.shields.io/github/followers/newnightcoder?color=%23181717&label=Follow%20me%20here%20on%20github&logo=github&style=for-the-badge)](https://github.com/newnightcoder)
+[![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=sur%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)  
+[![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=par%20email&style=for-the-badge)](mailto:djfrontend@gmail.com)  
+[![Discord](https://img.shields.io/badge/-nightcoder%237398-5865F2?label=sur%20discord&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/nightcoder2?color=%231DA1F2&label=FOLLOW%20moi%20sur%20Twitter%20😎&logo=Twitter&style=for-the-badge)](https://twitter.com/Nightcoder2)  
+[![GitHub followers](https://img.shields.io/github/followers/newnightcoder?color=%23181717&label=Ici%20sur%20github&logo=github&style=for-the-badge)](https://github.com/newnightcoder)
