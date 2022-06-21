@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
-<img width="auto" src="assets/preview4.png"/>
+<img width="1000" src="assets/preview4.png"/>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;![Redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=flat)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=flat)&nbsp;![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=flat)  
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white&style=flat)&nbsp;![Express](https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=flat)&nbsp;![JWT](https://img.shields.io/badge/-jsonwebtokens-000000?logo=jsonwebtokens&logoColor=white&style=flat)&nbsp;![SQL](https://img.shields.io/badge/-sql-4479A1?logo=mysql&logoColor=white&style=flat)&nbsp;![Heroku](https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=flat)
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <a href="#" target="_blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
-<img width="auto" src="assets/preview3.png"/>
+<img width="1000" src="assets/preview3.png"/>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;![Redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=flat)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=flat)&nbsp;![Tailwind](https://img.shields.io/badge/-stripe-008CDD?logo=stripe&logoColor=white&style=flat)
 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
-<img width="auto" src="assets/preview2.png"/>
+<img width="1000" src="assets/preview2.png"/>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;![styled](https://img.shields.io/badge/-styled%20components-DB7093?logo=styledcomponents&logoColor=white&style=flat)&nbsp;![Firebase](https://img.shields.io/badge/-firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
 
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 <a href="#" target="blank">see project live</a> <a href="#" target="blank">go to repo</a>
 
-<img width="auto" src="assets/preview1.png"/>
+<img width="1000" src="assets/preview1.png"/>
 
 ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=white&style=flat)&nbsp;![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)&nbsp;![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat)&nbsp;
 
