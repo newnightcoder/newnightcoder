@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![En](https://img.shields.io/badge/-🇺🇸-lightgray?label=Lang&&style=flat) -->
 
-# Hello! I'm Daniel Julien - aka <span style="color:#0b83eb">Nightcoder</span> 😎 👋🏾
+# Hello! I'm Daniel Julien - aka [Nightcoder](https://twitter.com/Nightcoder2) 😎 👋🏾
 
 <img width="100%" src="assets/zsh-banner.png"/>
 
