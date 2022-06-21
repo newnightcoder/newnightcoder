@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### <ins>FORUM</ins>
 
-**_A fullstack JS social media app._**
+**_A fullstack JS social media app._**  
 **_Forum platform inspired by Reddit and Twitter_**
 
 👁&nbsp;&nbsp;<ins>[See live](https://forum-network.netlify.app/)</ins>  
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ### <ins>COLORWAVE</ins>
 
-**_An online shopping site._**
+**_An online shopping site._**  
 **_Inspired by Colorware website_**
 
 👁&nbsp;&nbsp;<ins>[See live](https://colorwave-shop.netlify.app/)</ins>  
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 ### <ins>THINGS</ins>
 
-**_A React todo app._**
+**_A React todo app._**  
 **_UI inspired by a Dribbble design_**
 
 👁&nbsp;&nbsp;<ins>[See live](https://things-7544b.web.app/)</ins>  
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 
 ### <ins>Arkanoid-mini</ins>
 
-**_A vanilla JS tribute game._**
+**_A vanilla JS tribute game._**  
 **_My very 1st project ever_**😅
 
 👁&nbsp;&nbsp;<ins>[See live](https://newnightcoder.github.io/arkanoid-mini/)</ins>  

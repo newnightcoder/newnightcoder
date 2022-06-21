@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### <ins>FORUM</ins>
 
-**_Un réseau social fullstack JS._**
+**_Un réseau social fullstack JS._**  
 **_Plateforme de forum d'inspiration Reddit ou Twitter_**
 
 👁&nbsp;&nbsp;<ins>[Voir en live](https://forum-network.netlify.app/)</ins>  
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ### <ins>COLORWAVE</ins>
 
-**_Un site d'achat en ligne._**
+**_Un site d'achat en ligne._**  
 **_Inspiré par le site de Colorware_**
 
 👁&nbsp;&nbsp;<ins>[Voir en live](https://colorwave-shop.netlify.app/)</ins>  
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 ### <ins>THINGS</ins>
 
-**_Une todo list avec React._**
+**_Une todo list avec React._**  
 **_UI inspirée par un design sur Dribbble_**
 
 👁&nbsp;&nbsp;<ins>[Voir en live](https://things-7544b.web.app/)</ins>  
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 
 ### <ins>Arkanoid-mini</ins>
 
-**_Un petit jeu hommage en JavaScript._**
+**_Un petit jeu hommage en JavaScript._**  
 **_Mon tout premier projet ever_**😅
 
 👁&nbsp;&nbsp;<ins>[Voir en live](https://newnightcoder.github.io/arkanoid-mini/)</ins>  
