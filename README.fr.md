@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <img width="75%" src="assets/preview3.png"/>
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;![Redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=flat)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=flat)&nbsp;![Tailwind](https://img.shields.io/badge/-stripe-008CDD?logo=stripe&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;![Redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=flat)&nbsp;![Tailwind](https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=flat)&nbsp;![Tailwind](https://img.shields.io/badge/-stripe-008CDD?logo=stripe&logoColor=white&style=flat)&nbsp;![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
 
 </div>
 
