@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👨🏾‍💻 &nbsp;Currently coding my portfolio website
 - ❤️ &nbsp;I love to code
 
-## 🛠 &nbsp;<ins>Languages + tools i'm using<ins>
+## 🛠 &nbsp;Languages + tools i'm using
 
 <details><summary><i>click to see more</i></summary>
 &nbsp;
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 </details>
 
-## 💻 &nbsp;<ins>Some of the (finished) projects i built</ins>
+## 💻 &nbsp;Some of the (finished) projects i built
 
 <details>
 <summary><i>click to see more</i></summary>
@@ -115,11 +115,11 @@ Here are some ideas to get you started:
 
 </details>
 
-## 👀 &nbsp;<ins>Random facts about me</ins>
+## 👀 &nbsp;Random facts about me
 
 1- i'm a heavy mint tea drinker - it makes me awake, focused and happy 🤩 🍵
 
-## 💬 &nbsp;<ins>Let's connect!</ins>
+## 💬 &nbsp;Let's connect!
 
 [![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)
 [![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)](mailto:djfrontend@gmail.com)  
