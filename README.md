@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 ## 💬 &nbsp;Let's connect!
 
 [![Gmail](https://img.shields.io/badge/-nightcoder.dan-0A66C2?logo=linkedin&label=find%20me%20on%20linkedin&style=for-the-badge)](https://www.linkedin.com/in/nightcoder-dan/)  
-[![Gmail](https://img.shields.io/badge/-djfrontend@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)](mailto:daniel.julien.lima@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-daniel.lima.julien@gmail.com-EA4335?logo=gmail&label=email%20me&style=for-the-badge)](mailto:daniel.lima.julien@gmail.com)  
 [![Discord](https://img.shields.io/badge/-nightcoder%237398-5865F2?label=find%20me%20on%20discord&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.com/)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/nightcoder2?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/Nightcoder2)  
 [![GitHub followers](https://img.shields.io/github/followers/newnightcoder?color=%23181717&label=Follow%20me%20here%20on%20github&logo=github&style=for-the-badge)](https://github.com/newnightcoder)
