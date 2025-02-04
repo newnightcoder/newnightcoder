@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### <ins>FORUM</ins>
 
-**_A fullstack social media app._**  
+**_A social media app (fullstack JS)._**  
 **_Forum platform inspired by Reddit and Twitter_**
 
 👁&nbsp;&nbsp;<ins>[See live](https://forum-network.netlify.app/)</ins>  
