@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 
 ## 💻 &nbsp;Some of the (finished) projects i built
 
-<details>
-<summary><i>Click to see more</i></summary>
 <div>
 
 ### <ins>FORUM</ins>
@@ -127,11 +125,12 @@ Here are some ideas to get you started:
 
 ---
 
-</details>
 
 ## 👀 &nbsp;Random facts about me
 
 1- i'm a heavy mint tea drinker - it makes me awake, focused and happy 🤩 🍵
+2- i am a bicyle rider only 🚲 - i'm allergic to the subway train + i don't have a driving license because i don't want to drive but i like taxis though lol 🚖 👍🏾
+3- i really love X (twitter) a LOT but i don't think Elon Musk is a genius 💥 😈
 
 ## 💬 &nbsp;Let's connect!
 
