@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### <ins>FORUM</ins>
 
-**_Un réseau social fullstack JS._**  
+**_Un réseau social (fullstack JS)._**  
 **_Plateforme de forum d'inspiration Reddit ou Twitter_**
 
 👁&nbsp;&nbsp;<ins>[Voir en live](https://forum-network.netlify.app/)</ins>  
