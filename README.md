@@ -129,8 +129,9 @@ Here are some ideas to get you started:
 ## 👀 &nbsp;Random facts about me
 
 1- i'm a heavy mint tea drinker - it makes me awake, focused and happy 🤩 🍵
-2- i am a bicyle rider only 🚲 - i'm allergic to the subway train + i don't have a driving license because i don't want to drive but i like taxis though lol 🚖 👍🏾
+2- i am a bicyle rider only 🚲 - i'm allergic to the subway train + i don't have a driving license because i don't want to drive but i like taxis though 🚖 👍🏾
 3- i really love X (twitter) a LOT but i don't think Elon Musk is a genius 💥 😈
+4- i know the world has changed but i still go to SOF from time to time - the nostalgia is real lol [my profile there](https://stackoverflow.com/users/12209569/nightcoder)
 
 ## 💬 &nbsp;Let's connect!
 
