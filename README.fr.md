@@ -52,8 +52,7 @@ Here are some ideas to get you started:
 
 ## 💻 &nbsp;Quelques projets (finis 😋)
 
-<details>
-<summary><i>Voir plus</i></summary>
+
 <div>
 
 ### <ins>FORUM</ins>
@@ -127,11 +126,13 @@ Here are some ideas to get you started:
 
 ---
 
-</details>
 
 ## 👀 &nbsp;Trucs qui ont rien à voir
 
-1- je suis un très gros buveur de thé vert à la menthe (avec du sucre) - ça me rend super éveillé, focus et heureux 🤩 🍵
+1- je suis un très gros buveur de thé vert à la menthe (avec du sucre) - ça me rend super éveillé, focus et heureux 🤩 🍵  
+2- je me déplace quasi uniquement en vélo 🚲 - suis allergique au métro + je n'ai pas le permis de conduire car je n'ai pas du tout envie de conduire, par contre j'aime trop les taxis et vtc 🚖 👍🏾    
+3- je suis un peu accroc à X (twitter), j'adore, mais je ne pense pas du tout qu'Elon soit un génie 💥 😈    
+4- je suis aware que le monde a changé mais j'aime bien retourner sur stackoverflow de temps en temps... - nostalgie nostalgie 😭 [mon profile SOF](https://stackoverflow.com/users/12209569/nightcoder)
 
 ## 💬 &nbsp;Parlons-nous!
 
